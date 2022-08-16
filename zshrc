@@ -1,0 +1,1 @@
+/Users/rahimramzan/.zprezto/runcoms/zshrc
